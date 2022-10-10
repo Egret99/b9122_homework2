@@ -1,6 +1,6 @@
 # b9122_homework2
 **author**: Zhenxu Liu
-The jupyter notebook file "[WebCrawlers.ipynb]"(https://github.com/Egret99/b9122_homework2/blob/main/WebCrawlers.ipynb) contains the code for two web crawlers.
+The jupyter notebook file "[WebCrawlers.ipynb](https://github.com/Egret99/b9122_homework2/blob/main/WebCrawlers.ipynb)" contains the code for two web crawlers.
 1. Scrapes website https://www.federalreserve.gov/newsevents/pressreleases.htm and collects 10 webpages that contain word "covid" in it.
 2. Scrapes website https://www.sec.gov/news/pressreleases and collects 20 webpages that contain word "charges" in it.
 
